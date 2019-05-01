@@ -1,0 +1,39 @@
+html{
+  background-color: #bccce5;
+}
+
+header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 43.5rem;
+
+}
+
+.banner {
+  background-image: url(photos/matt-popovich-60437-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text {
+  background-color: #c39797;
+  margin: 170px auto 170px 100px;
+
+}
+
+div img{
+  height: auto;
+  width: auto;
+}
+
+.right {
+  float: right;
+  padding: 0;
+}
+
+.left {
+  float: left;
+  padding: 0;
+}
